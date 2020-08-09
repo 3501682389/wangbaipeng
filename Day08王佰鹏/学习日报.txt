@@ -1,0 +1,12 @@
+学习目标，
+认识Linux
+下载使用VMware
+CentOS使用
+XShell下载使用
+练习linux指令
+作业，
+ssm项目
+面试题抄写
+
+早自习背面试题
+晚上敲ssm项目
